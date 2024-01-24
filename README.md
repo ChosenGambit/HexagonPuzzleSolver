@@ -1,7 +1,9 @@
 # Toysmith Hexagon Puzzle Solver
 
+![alt text](https://github.com/ChosenGambit/HexagonPuzzleSolver/raw/main/solved.png)
+
 ## Description
-An algorithm that solves the solution for the hexagon tile puzzle by Toysmith. Each card was at random marked specifically, so the results are not transferrable without the same custom identification system.  
+An algorithm that solves the solution for the hexagon tile puzzle by Toysmith. Each card was marked at random, so the results are not transferrable without the same custom identification system.  
 The code is not optimized and has inefficiencies.
 
 ## Requirements and Dependencies
@@ -9,12 +11,10 @@ The code is not optimized and has inefficiencies.
 - (Maven)
 
 ## Installation and Setup
-From <projectroot>\src\main\java:  
-> javac com\chosengambit\bugcards\Main.java  
+From `<projectroot>`\src\main\java, run:  
+> javac com\chosengambit\bugcards\Main.java  
 
 > java com\chosengambit\bugcards\Main.java
-
-
 
 ## Usage
 Press start and choose a solve speed.
@@ -23,4 +23,9 @@ Press start and choose a solve speed.
 No information
 
 ## License
+MIT
+
+
+
+
 
